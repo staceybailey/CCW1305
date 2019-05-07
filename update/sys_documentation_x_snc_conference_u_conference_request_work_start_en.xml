@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="work_start" label="Start date" language="en" table="x_snc_conference_u_conference_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>work_start</element>
+            <help/>
+            <hint/>
+            <label>Start date</label>
+            <language>en</language>
+            <name>x_snc_conference_u_conference_request</name>
+            <plural>Start dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-27 23:07:34</sys_created_on>
+            <sys_id>bf326244db24b3001fdb7ab9bf961907</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Start date</sys_name>
+            <sys_package display_value="Conference Registration" source="x_snc_conference_u">467dd24cdbe0b3001fdb7ab9bf9619f7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Conference Registration">467dd24cdbe0b3001fdb7ab9bf9619f7</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_conference_u_conference_request_work_start_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-27 23:07:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
